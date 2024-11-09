@@ -1,4 +1,4 @@
-import { fff } from 'newApi/data/bridgeTest2';
+import { fff } from './bridgeTest2';
 
 
 
