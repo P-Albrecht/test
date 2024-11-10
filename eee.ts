@@ -1,4 +1,5 @@
 import { xxx } from './bridgeTest';
+import { xxx } from './ggg/bridgeTest3';
 
 
 class aaa (a , b , c ) {
