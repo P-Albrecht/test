@@ -12,7 +12,7 @@ class aaa (a , b , c ) {
 
         function philip2 ( Q2 ) { 
 
-            global ttt;
+            //global ttt;
             global ttt;
             
             let xxx;
