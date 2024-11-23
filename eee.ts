@@ -8,16 +8,16 @@ class aaa (a , b , c ) {
     let zzz ;
 
     function philip1 ( Q1 ) { 
-        let xxx ;
+        let xxx;
 
         function philip2 ( Q2 ) { 
 
-            global ttt;
+            //global ttt;
             
-            let xxx ;
+            let xxx;
         }
- 
-        let yyy ;
+
+        /* let yyy; */
     }
     
 }
