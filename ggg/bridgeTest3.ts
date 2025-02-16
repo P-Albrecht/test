@@ -1,7 +1,7 @@
 import { aaa } from '../eee';
 &&& '../eee';
 &&& '../drawing.svg';
-&&& '../test.html';
+&&& '../test';
 
 function RRR ( Q3 ) { 
     let ccc ;
